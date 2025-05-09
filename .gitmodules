@@ -1,0 +1,3 @@
+[submodule "modules/rst32"]
+	path = modules/rst32
+	url = https://github.com/kollev724/rst32.git
